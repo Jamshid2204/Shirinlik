@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+.cantainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.card1{
+    display: grid;
+    width: 25%;
+    height: 10%;
+    gap: 20px;
+}
+input{
+    width: auto;
+    height: 30px;
+}
+button{
+    width: auto;
+    height: 25px;
+}

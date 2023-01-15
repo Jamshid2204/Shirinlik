@@ -1,0 +1,10 @@
+.div{
+    width: 100%;
+
+    /* display: flex; */
+}
+.card1{
+    display: grid;
+    width: 15%;
+    gap: 20px;
+}
